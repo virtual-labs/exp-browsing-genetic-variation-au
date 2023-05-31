@@ -84,10 +84,5 @@ One of the main uses of ClinVar is to support clinical decision-making in the di
 Fig.4: Browsing of a gene BRAC1 with a variant type SNV using ClinVar database via NCBI
 
 
-The graphical user interface that we developed to browse the genetic variation database ClinVar provides an insights to the clinical significance of specific genetic variants and their relationship to various conditions, which can help inform clinical decision-making and advance our understanding of human genetics. (Fig.5).
 
-
-<img src="images/7.png" title="" />
- 
-Fig.5: Graphical user interface for browsing the genetic variation database, ClinVar
 
