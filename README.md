@@ -27,6 +27,6 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. Asha Vijayan | Faculty | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | ashavijayan@am.amrita.edu
 2 | Nijin N | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | nijinn@am.amrita.edu
-3 | Bhavya O | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | bhavyao@am.amrita.edu 
+3 | Sreelekshmi S | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | sreelekshmis@am.amrita.edu 
 4 | Rakhi Radhamani | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | rakhir@am.amrita.edu
 5 | Dhanush Kumar | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | dhanushkumar@am.amrita.edu
