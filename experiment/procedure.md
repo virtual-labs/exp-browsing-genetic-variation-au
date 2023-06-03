@@ -26,11 +26,11 @@ The graphical user interface helps users learn how to browse a bioinformatics to
 
 5.  After clicking the Submit button, the simulator provides different Variant IDs of the given gene (Here GUI provides different variation IDs of BRCA1 GENE).
 
-<img src="images/P5.png" title="" />
+<img src="images/p5.png" title="" />
 
 6.  After getting the different variation IDs of the gene, the User has to enter a variation id in the ‘Enter a Variation Id’ tab to get more details relating to the gene’s genetic variant. For example, a variation Id, 2501193 of the BRCA1 gene is entered in the tab.
 
-<img src="images/P6.png" title="" />
+<img src="images/p6.png" title="" />
 
 7. After entering the variation ID, the user has to click on the ‘Search button’ to get the details (Allele ID, Variant type, Cytogenetic location, Genomic location, HGVS, Protein change, Canonical SPDI) of the given genetic variant.
 Here BRCA1 gene with a variant id 2501193 provides the details such as:
